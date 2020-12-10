@@ -38,6 +38,7 @@
             android:background="@drawable/edit_text_background"/>
 
         <ImageView
+            android:id="@+id/btn_send"
             android:layout_width="64dp"
             android:layout_height="64dp"
             android:src="@drawable/ic_send"/>
